@@ -1,0 +1,3 @@
+X:/Projects/OsuBot/cmake-build-debug/CMakeFiles/OsuBot.dir
+X:/Projects/OsuBot/cmake-build-debug/CMakeFiles/edit_cache.dir
+X:/Projects/OsuBot/cmake-build-debug/CMakeFiles/rebuild_cache.dir

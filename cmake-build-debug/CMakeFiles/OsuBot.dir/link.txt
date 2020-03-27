@@ -1,0 +1,3 @@
+"X:\Program Files\JetBrains\CLion 2019.1.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\OsuBot.dir/objects.a
+"X:\Program Files\mingw-w64\x86_64-8.1.0-win32-seh-rt_v6-rev0\mingw64\bin\ar.exe" cr CMakeFiles\OsuBot.dir/objects.a @CMakeFiles\OsuBot.dir\objects1.rsp
+"X:\Program Files\mingw-w64\x86_64-8.1.0-win32-seh-rt_v6-rev0\mingw64\bin\g++.exe" -g   -Wl,--whole-archive CMakeFiles\OsuBot.dir/objects.a -Wl,--no-whole-archive  -o OsuBot.exe -Wl,--out-implib,libOsuBot.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\OsuBot.dir\linklibs.rsp

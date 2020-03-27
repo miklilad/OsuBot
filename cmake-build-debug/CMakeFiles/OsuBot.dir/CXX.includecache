@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+X:/Projects/OsuBot/OsuProcess.h
+memtools.h
+X:/Projects/OsuBot/memtools.h
+
+X:/Projects/OsuBot/main.cpp
+iostream
+-
+OsuProcess.h
+X:/Projects/OsuBot/OsuProcess.h
+assert.h
+X:/Projects/OsuBot/assert.h
+
+X:/Projects/OsuBot/memtools.h
+iostream
+-
+sstream
+-
+vector
+-
+algorithm
+-
+windows.h
+-
+tlhelp32.h
+-
+
